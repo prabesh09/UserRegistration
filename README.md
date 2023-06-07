@@ -1,6 +1,6 @@
 # UserVerification
 
-# XAMPP Installation and Setup Guide
+## XAMPP Installation and Setup Guide
 
 This guide provides step-by-step instructions for downloading and setting up XAMPP on your system. XAMPP is a free and open-source cross-platform web server solution that includes Apache, MySQL, PHP, and Perl.
 
